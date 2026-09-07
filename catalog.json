@@ -1,0 +1,1186 @@
+{
+  "artist": "Robert Fainter",
+  "generated": "2026-09-07",
+  "image_count": 155,
+  "paths": {
+    "preview": "images/preview/<folder>/<filename> (800px long edge)",
+    "full": "images/full/<folder>/<filename> (2400px long edge)"
+  },
+  "series": [
+    {
+      "folder": "01_Sketches",
+      "name": "Sketches",
+      "slug": "sketches",
+      "description": "Line and graphite studies \u2014 figures, reclining nudes, and a run of animal studies (fox, tapir, camel, gazelle, primate). Spare, fast, observational.",
+      "count": 14,
+      "cover": "Fainter_Sketches_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Sketches_001",
+          "file": "Fainter_Sketches_001.jpg",
+          "width": 1814,
+          "height": 2259,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Sketches_002",
+          "file": "Fainter_Sketches_002.jpg",
+          "width": 1817,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Sketches_003",
+          "file": "Fainter_Sketches_003.jpg",
+          "width": 2305,
+          "height": 1753,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_004",
+          "file": "Fainter_Sketches_004.jpg",
+          "width": 2257,
+          "height": 1672,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_005",
+          "file": "Fainter_Sketches_005.jpg",
+          "width": 2303,
+          "height": 1706,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_006",
+          "file": "Fainter_Sketches_006.jpg",
+          "width": 1787,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Sketches_007",
+          "file": "Fainter_Sketches_007.jpg",
+          "width": 2205,
+          "height": 1727,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_008",
+          "file": "Fainter_Sketches_008.jpg",
+          "width": 2395,
+          "height": 1828,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_009",
+          "file": "Fainter_Sketches_009.jpg",
+          "width": 2357,
+          "height": 1826,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_010",
+          "file": "Fainter_Sketches_010.jpg",
+          "width": 2303,
+          "height": 1726,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_011",
+          "file": "Fainter_Sketches_011.jpg",
+          "width": 1801,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Sketches_012",
+          "file": "Fainter_Sketches_012.jpg",
+          "width": 1775,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Sketches_013",
+          "file": "Fainter_Sketches_013.jpg",
+          "width": 2400,
+          "height": 1730,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Sketches_014",
+          "file": "Fainter_Sketches_014.jpg",
+          "width": 2391,
+          "height": 1731,
+          "orientation": "landscape"
+        }
+      ]
+    },
+    {
+      "folder": "02_Large_Oil_Paintings",
+      "name": "Large Oil Paintings",
+      "slug": "large-oil-paintings",
+      "description": "Figurative oils on flat, geometric grounds. Saturated skin tones against blocked color fields; single figures and paired portraits.",
+      "count": 8,
+      "cover": "Fainter_Large_Oil_Paintings_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Large_Oil_Paintings_001",
+          "file": "Fainter_Large_Oil_Paintings_001.jpg",
+          "width": 2400,
+          "height": 1928,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_002",
+          "file": "Fainter_Large_Oil_Paintings_002.jpg",
+          "width": 2048,
+          "height": 2046,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_003",
+          "file": "Fainter_Large_Oil_Paintings_003.jpg",
+          "width": 2046,
+          "height": 2048,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_004",
+          "file": "Fainter_Large_Oil_Paintings_004.jpg",
+          "width": 2048,
+          "height": 2036,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_005",
+          "file": "Fainter_Large_Oil_Paintings_005.jpg",
+          "width": 2048,
+          "height": 2035,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_006",
+          "file": "Fainter_Large_Oil_Paintings_006.jpg",
+          "width": 2048,
+          "height": 2023,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_007",
+          "file": "Fainter_Large_Oil_Paintings_007.jpg",
+          "width": 2048,
+          "height": 2048,
+          "orientation": "square"
+        },
+        {
+          "id": "Fainter_Large_Oil_Paintings_008",
+          "file": "Fainter_Large_Oil_Paintings_008.jpg",
+          "width": 2048,
+          "height": 2048,
+          "orientation": "square"
+        }
+      ]
+    },
+    {
+      "folder": "03_Warrior_Series",
+      "name": "Warrior Series",
+      "slug": "warrior-series",
+      "description": "Fractured, high-energy figures in motion. Cubist-adjacent color planes, limbs breaking into ribbon shapes. The most kinetic work in the collection.",
+      "count": 14,
+      "cover": "Fainter_Warrior_Series_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Warrior_Series_001",
+          "file": "Fainter_Warrior_Series_001.jpg",
+          "width": 1677,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Warrior_Series_002",
+          "file": "Fainter_Warrior_Series_002.jpg",
+          "width": 2400,
+          "height": 1691,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_003",
+          "file": "Fainter_Warrior_Series_003.jpg",
+          "width": 2400,
+          "height": 1698,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_004",
+          "file": "Fainter_Warrior_Series_004.jpg",
+          "width": 2400,
+          "height": 1454,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_005",
+          "file": "Fainter_Warrior_Series_005.jpg",
+          "width": 2400,
+          "height": 1829,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_006",
+          "file": "Fainter_Warrior_Series_006.jpg",
+          "width": 2400,
+          "height": 1799,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_007",
+          "file": "Fainter_Warrior_Series_007.jpg",
+          "width": 1898,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Warrior_Series_008",
+          "file": "Fainter_Warrior_Series_008.jpg",
+          "width": 2400,
+          "height": 1914,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_009",
+          "file": "Fainter_Warrior_Series_009.jpg",
+          "width": 1923,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Warrior_Series_010",
+          "file": "Fainter_Warrior_Series_010.jpg",
+          "width": 1898,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Warrior_Series_011",
+          "file": "Fainter_Warrior_Series_011.jpg",
+          "width": 2400,
+          "height": 1412,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_012",
+          "file": "Fainter_Warrior_Series_012.jpg",
+          "width": 2400,
+          "height": 1684,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Warrior_Series_013",
+          "file": "Fainter_Warrior_Series_013.jpg",
+          "width": 1773,
+          "height": 2332,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Warrior_Series_014",
+          "file": "Fainter_Warrior_Series_014.jpg",
+          "width": 1671,
+          "height": 2400,
+          "orientation": "portrait"
+        }
+      ]
+    },
+    {
+      "folder": "04_Jockey_Series",
+      "name": "Jockey Series",
+      "slug": "jockey-series",
+      "description": "Jockeys in silks \u2014 solo portraits and grouped figures. Flatter color, heraldic palette, a quieter cousin to the Warrior work.",
+      "count": 6,
+      "cover": "Fainter_Jockey_Series_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Jockey_Series_001",
+          "file": "Fainter_Jockey_Series_001.jpg",
+          "width": 2400,
+          "height": 1799,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Jockey_Series_002",
+          "file": "Fainter_Jockey_Series_002.jpg",
+          "width": 1801,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Jockey_Series_003",
+          "file": "Fainter_Jockey_Series_003.jpg",
+          "width": 1809,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Jockey_Series_004",
+          "file": "Fainter_Jockey_Series_004.jpg",
+          "width": 1816,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Jockey_Series_005",
+          "file": "Fainter_Jockey_Series_005.jpg",
+          "width": 2400,
+          "height": 1893,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Jockey_Series_006",
+          "file": "Fainter_Jockey_Series_006.jpg",
+          "width": 2357,
+          "height": 1852,
+          "orientation": "landscape"
+        }
+      ]
+    },
+    {
+      "folder": "05_Faces",
+      "name": "Faces",
+      "slug": "faces",
+      "description": "Portrait heads built from loose line and wash. High chroma, expression pushed past likeness. The largest single body of work here.",
+      "count": 29,
+      "cover": "Fainter_Faces_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Faces_001",
+          "file": "Fainter_Faces_001.jpg",
+          "width": 1086,
+          "height": 1448,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_002",
+          "file": "Fainter_Faces_002.jpg",
+          "width": 1086,
+          "height": 1448,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_003",
+          "file": "Fainter_Faces_003.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_004",
+          "file": "Fainter_Faces_004.jpg",
+          "width": 1086,
+          "height": 1448,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_005",
+          "file": "Fainter_Faces_005.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_006",
+          "file": "Fainter_Faces_006.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_007",
+          "file": "Fainter_Faces_007.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_008",
+          "file": "Fainter_Faces_008.jpg",
+          "width": 1086,
+          "height": 1448,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_009",
+          "file": "Fainter_Faces_009.jpg",
+          "width": 1086,
+          "height": 1448,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_010",
+          "file": "Fainter_Faces_010.jpg",
+          "width": 1086,
+          "height": 1448,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_011",
+          "file": "Fainter_Faces_011.jpg",
+          "width": 1410,
+          "height": 1115,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_012",
+          "file": "Fainter_Faces_012.jpg",
+          "width": 1122,
+          "height": 1402,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_013",
+          "file": "Fainter_Faces_013.jpg",
+          "width": 1122,
+          "height": 1402,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_014",
+          "file": "Fainter_Faces_014.jpg",
+          "width": 1122,
+          "height": 1402,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_015",
+          "file": "Fainter_Faces_015.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_016",
+          "file": "Fainter_Faces_016.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_017",
+          "file": "Fainter_Faces_017.jpg",
+          "width": 1448,
+          "height": 1086,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_018",
+          "file": "Fainter_Faces_018.jpg",
+          "width": 2400,
+          "height": 1971,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_019",
+          "file": "Fainter_Faces_019.jpg",
+          "width": 1840,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_020",
+          "file": "Fainter_Faces_020.jpg",
+          "width": 2400,
+          "height": 1906,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_021",
+          "file": "Fainter_Faces_021.jpg",
+          "width": 1932,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_022",
+          "file": "Fainter_Faces_022.jpg",
+          "width": 2400,
+          "height": 1880,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_023",
+          "file": "Fainter_Faces_023.jpg",
+          "width": 2400,
+          "height": 1884,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_024",
+          "file": "Fainter_Faces_024.jpg",
+          "width": 2400,
+          "height": 1910,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_025",
+          "file": "Fainter_Faces_025.jpg",
+          "width": 1889,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Faces_026",
+          "file": "Fainter_Faces_026.jpg",
+          "width": 2400,
+          "height": 1892,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_027",
+          "file": "Fainter_Faces_027.jpg",
+          "width": 2400,
+          "height": 1900,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_028",
+          "file": "Fainter_Faces_028.jpg",
+          "width": 2400,
+          "height": 1896,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Faces_029",
+          "file": "Fainter_Faces_029.jpg",
+          "width": 1885,
+          "height": 2400,
+          "orientation": "portrait"
+        }
+      ]
+    },
+    {
+      "folder": "06_Floating_Figures",
+      "name": "Floating Figures",
+      "slug": "floating-figures",
+      "description": "Figures suspended in minimal architectural space. Largely grayscale with sparse color accents; the most conceptual and restrained series.",
+      "count": 40,
+      "cover": "Fainter_Floating_Figures_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Floating_Figures_001",
+          "file": "Fainter_Floating_Figures_001.jpg",
+          "width": 1847,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_002",
+          "file": "Fainter_Floating_Figures_002.jpg",
+          "width": 1913,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_003",
+          "file": "Fainter_Floating_Figures_003.jpg",
+          "width": 1906,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_004",
+          "file": "Fainter_Floating_Figures_004.jpg",
+          "width": 1875,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_005",
+          "file": "Fainter_Floating_Figures_005.jpg",
+          "width": 1875,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_006",
+          "file": "Fainter_Floating_Figures_006.jpg",
+          "width": 2400,
+          "height": 1901,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_007",
+          "file": "Fainter_Floating_Figures_007.jpg",
+          "width": 1908,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_008",
+          "file": "Fainter_Floating_Figures_008.jpg",
+          "width": 2400,
+          "height": 1902,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_009",
+          "file": "Fainter_Floating_Figures_009.jpg",
+          "width": 1883,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_010",
+          "file": "Fainter_Floating_Figures_010.jpg",
+          "width": 1596,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_011",
+          "file": "Fainter_Floating_Figures_011.jpg",
+          "width": 2400,
+          "height": 2300,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_012",
+          "file": "Fainter_Floating_Figures_012.jpg",
+          "width": 2124,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_013",
+          "file": "Fainter_Floating_Figures_013.jpg",
+          "width": 1919,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_014",
+          "file": "Fainter_Floating_Figures_014.jpg",
+          "width": 2400,
+          "height": 1896,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_015",
+          "file": "Fainter_Floating_Figures_015.jpg",
+          "width": 2146,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_016",
+          "file": "Fainter_Floating_Figures_016.jpg",
+          "width": 2400,
+          "height": 1884,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_017",
+          "file": "Fainter_Floating_Figures_017.jpg",
+          "width": 1879,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_018",
+          "file": "Fainter_Floating_Figures_018.jpg",
+          "width": 2400,
+          "height": 1883,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_019",
+          "file": "Fainter_Floating_Figures_019.jpg",
+          "width": 2400,
+          "height": 1886,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_020",
+          "file": "Fainter_Floating_Figures_020.jpg",
+          "width": 1906,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_021",
+          "file": "Fainter_Floating_Figures_021.jpg",
+          "width": 1868,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_022",
+          "file": "Fainter_Floating_Figures_022.jpg",
+          "width": 2400,
+          "height": 1919,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_023",
+          "file": "Fainter_Floating_Figures_023.jpg",
+          "width": 1894,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_024",
+          "file": "Fainter_Floating_Figures_024.jpg",
+          "width": 1923,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_025",
+          "file": "Fainter_Floating_Figures_025.jpg",
+          "width": 1907,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_026",
+          "file": "Fainter_Floating_Figures_026.jpg",
+          "width": 1930,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_027",
+          "file": "Fainter_Floating_Figures_027.jpg",
+          "width": 1898,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_028",
+          "file": "Fainter_Floating_Figures_028.jpg",
+          "width": 1856,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_029",
+          "file": "Fainter_Floating_Figures_029.jpg",
+          "width": 1442,
+          "height": 2048,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_030",
+          "file": "Fainter_Floating_Figures_030.jpg",
+          "width": 2048,
+          "height": 1623,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_031",
+          "file": "Fainter_Floating_Figures_031.jpg",
+          "width": 1633,
+          "height": 2048,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_032",
+          "file": "Fainter_Floating_Figures_032.jpg",
+          "width": 2048,
+          "height": 1663,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_033",
+          "file": "Fainter_Floating_Figures_033.jpg",
+          "width": 2048,
+          "height": 1656,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_034",
+          "file": "Fainter_Floating_Figures_034.jpg",
+          "width": 2400,
+          "height": 1887,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_035",
+          "file": "Fainter_Floating_Figures_035.jpg",
+          "width": 1881,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_036",
+          "file": "Fainter_Floating_Figures_036.jpg",
+          "width": 1941,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_037",
+          "file": "Fainter_Floating_Figures_037.jpg",
+          "width": 2400,
+          "height": 1893,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Floating_Figures_038",
+          "file": "Fainter_Floating_Figures_038.jpg",
+          "width": 1915,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_039",
+          "file": "Fainter_Floating_Figures_039.jpg",
+          "width": 1937,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Floating_Figures_040",
+          "file": "Fainter_Floating_Figures_040.jpg",
+          "width": 2146,
+          "height": 2146,
+          "orientation": "square"
+        }
+      ]
+    },
+    {
+      "folder": "07_Miscellaneous",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "description": "Uncategorized work \u2014 interiors, a musician, beach scenes, portraits. Range rather than a through-line.",
+      "count": 10,
+      "cover": "Fainter_Miscellaneous_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Miscellaneous_001",
+          "file": "Fainter_Miscellaneous_001.jpg",
+          "width": 2400,
+          "height": 1890,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Miscellaneous_002",
+          "file": "Fainter_Miscellaneous_002.jpg",
+          "width": 2400,
+          "height": 1702,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Miscellaneous_003",
+          "file": "Fainter_Miscellaneous_003.jpg",
+          "width": 2400,
+          "height": 2042,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Miscellaneous_004",
+          "file": "Fainter_Miscellaneous_004.jpg",
+          "width": 2400,
+          "height": 1784,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Miscellaneous_005",
+          "file": "Fainter_Miscellaneous_005.jpg",
+          "width": 2400,
+          "height": 1679,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Miscellaneous_006",
+          "file": "Fainter_Miscellaneous_006.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Miscellaneous_007",
+          "file": "Fainter_Miscellaneous_007.jpg",
+          "width": 1802,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Miscellaneous_008",
+          "file": "Fainter_Miscellaneous_008.jpg",
+          "width": 1714,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Miscellaneous_009",
+          "file": "Fainter_Miscellaneous_009.jpg",
+          "width": 2345,
+          "height": 1671,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Miscellaneous_010",
+          "file": "Fainter_Miscellaneous_010.jpg",
+          "width": 2173,
+          "height": 2400,
+          "orientation": "portrait"
+        }
+      ]
+    },
+    {
+      "folder": "08_Impressionist",
+      "name": "Impressionist",
+      "slug": "impressionist",
+      "description": "Atmospheric landscapes and figure groups. Layered washes, dissolved edges, weather and light doing the work.",
+      "count": 17,
+      "cover": "Fainter_Impressionist_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Impressionist_001",
+          "file": "Fainter_Impressionist_001.jpg",
+          "width": 2400,
+          "height": 1979,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_002",
+          "file": "Fainter_Impressionist_002.jpg",
+          "width": 2400,
+          "height": 1785,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_003",
+          "file": "Fainter_Impressionist_003.jpg",
+          "width": 1688,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_004",
+          "file": "Fainter_Impressionist_004.jpg",
+          "width": 2400,
+          "height": 1781,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_005",
+          "file": "Fainter_Impressionist_005.jpg",
+          "width": 2400,
+          "height": 1759,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_006",
+          "file": "Fainter_Impressionist_006.jpg",
+          "width": 2400,
+          "height": 1785,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_007",
+          "file": "Fainter_Impressionist_007.jpg",
+          "width": 1911,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_008",
+          "file": "Fainter_Impressionist_008.jpg",
+          "width": 1947,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_009",
+          "file": "Fainter_Impressionist_009.jpg",
+          "width": 1745,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_010",
+          "file": "Fainter_Impressionist_010.jpg",
+          "width": 1549,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_011",
+          "file": "Fainter_Impressionist_011.jpg",
+          "width": 2400,
+          "height": 1596,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_012",
+          "file": "Fainter_Impressionist_012.jpg",
+          "width": 2400,
+          "height": 2104,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_013",
+          "file": "Fainter_Impressionist_013.jpg",
+          "width": 1869,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_014",
+          "file": "Fainter_Impressionist_014.jpg",
+          "width": 1812,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Impressionist_015",
+          "file": "Fainter_Impressionist_015.jpg",
+          "width": 2400,
+          "height": 1877,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_016",
+          "file": "Fainter_Impressionist_016.jpg",
+          "width": 2400,
+          "height": 1885,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Impressionist_017",
+          "file": "Fainter_Impressionist_017.jpg",
+          "width": 2400,
+          "height": 2303,
+          "orientation": "landscape"
+        }
+      ]
+    },
+    {
+      "folder": "09_Mystical_Figures",
+      "name": "Mystical Figures",
+      "slug": "mystical-figures",
+      "description": "Graphite and charcoal figure groups. Hats, ambiguous gatherings, narrative left open.",
+      "count": 17,
+      "cover": "Fainter_Mystical_Figures_001.jpg",
+      "works": [
+        {
+          "id": "Fainter_Mystical_Figures_001",
+          "file": "Fainter_Mystical_Figures_001.jpg",
+          "width": 2400,
+          "height": 1718,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_002",
+          "file": "Fainter_Mystical_Figures_002.jpg",
+          "width": 2400,
+          "height": 1753,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_003",
+          "file": "Fainter_Mystical_Figures_003.jpg",
+          "width": 2400,
+          "height": 1872,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_004",
+          "file": "Fainter_Mystical_Figures_004.jpg",
+          "width": 2400,
+          "height": 1321,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_005",
+          "file": "Fainter_Mystical_Figures_005.jpg",
+          "width": 2400,
+          "height": 1914,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_006",
+          "file": "Fainter_Mystical_Figures_006.jpg",
+          "width": 2400,
+          "height": 2084,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_007",
+          "file": "Fainter_Mystical_Figures_007.jpg",
+          "width": 2400,
+          "height": 1897,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_008",
+          "file": "Fainter_Mystical_Figures_008.jpg",
+          "width": 2400,
+          "height": 2393,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_009",
+          "file": "Fainter_Mystical_Figures_009.jpg",
+          "width": 1909,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_010",
+          "file": "Fainter_Mystical_Figures_010.jpg",
+          "width": 1914,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_011",
+          "file": "Fainter_Mystical_Figures_011.jpg",
+          "width": 1914,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_012",
+          "file": "Fainter_Mystical_Figures_012.jpg",
+          "width": 2400,
+          "height": 1922,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_013",
+          "file": "Fainter_Mystical_Figures_013.jpg",
+          "width": 2400,
+          "height": 1828,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_014",
+          "file": "Fainter_Mystical_Figures_014.jpg",
+          "width": 2400,
+          "height": 1878,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_015",
+          "file": "Fainter_Mystical_Figures_015.jpg",
+          "width": 2400,
+          "height": 1890,
+          "orientation": "landscape"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_016",
+          "file": "Fainter_Mystical_Figures_016.jpg",
+          "width": 1880,
+          "height": 2400,
+          "orientation": "portrait"
+        },
+        {
+          "id": "Fainter_Mystical_Figures_017",
+          "file": "Fainter_Mystical_Figures_017.jpg",
+          "width": 1900,
+          "height": 2400,
+          "orientation": "portrait"
+        }
+      ]
+    }
+  ]
+}

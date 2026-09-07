@@ -1,0 +1,156 @@
+category,sequence,filename,folder,source_file,source_folder,source_format,source_pixels,output_pixels,output_kb,resize,jpeg_quality,icc_to_srgb,md5
+Sketches,1,Fainter_Sketches_001.jpg,01_Sketches,IMG_7333.JPG,Sketches,JPEG,1814x2259,1814x2259,340.0,native (source under 2400px),88,no,4d6431787d457a4a0a3ec2b617aca95b
+Sketches,2,Fainter_Sketches_002.jpg,01_Sketches,IMG_7334.JPG,Sketches,JPEG,1872x2473,1817x2400,493.2,downscaled to 2400px,88,no,a06d1b12035083126f1547d15bc77c01
+Sketches,3,Fainter_Sketches_003.jpg,01_Sketches,IMG_7335.JPG,Sketches,JPEG,2305x1753,2305x1753,367.0,native (source under 2400px),88,no,9f6d270131140a13f1ba950b11e9158b
+Sketches,4,Fainter_Sketches_004.jpg,01_Sketches,IMG_7336.JPG,Sketches,JPEG,2257x1672,2257x1672,329.9,native (source under 2400px),88,no,42b8e484299fdc730c2601d63059035d
+Sketches,5,Fainter_Sketches_005.jpg,01_Sketches,IMG_7337.JPG,Sketches,JPEG,2303x1706,2303x1706,302.4,native (source under 2400px),88,no,36221e8560431efb527404f5d3fb3d73
+Sketches,6,Fainter_Sketches_006.jpg,01_Sketches,IMG_7347.JPG,Sketches,JPEG,2281x3064,1787x2400,605.5,downscaled to 2400px,88,no,da4c583a2225bcf381e91d6e781a08cd
+Sketches,7,Fainter_Sketches_007.jpg,01_Sketches,IMG_7348.JPG,Sketches,JPEG,2205x1727,2205x1727,360.6,native (source under 2400px),88,no,84bb328c232d68ec8ac3ec553b20fcc5
+Sketches,8,Fainter_Sketches_008.jpg,01_Sketches,IMG_7349.JPG,Sketches,JPEG,2395x1828,2395x1828,492.2,native (source under 2400px),88,no,79ec9eec0dad334cf76ae0ac095577ba
+Sketches,9,Fainter_Sketches_009.jpg,01_Sketches,IMG_7350.JPG,Sketches,JPEG,2357x1826,2357x1826,587.4,native (source under 2400px),88,no,cf5fa990dd2daf7dfc9a12829384f9a5
+Sketches,10,Fainter_Sketches_010.jpg,01_Sketches,IMG_7351.JPG,Sketches,JPEG,2303x1726,2303x1726,437.9,native (source under 2400px),88,no,1aef595dbf9cbfe5125025d3f0872f55
+Sketches,11,Fainter_Sketches_011.jpg,01_Sketches,IMG_7352.JPG,Sketches,JPEG,2185x2911,1801x2400,543.0,downscaled to 2400px,88,no,f82a24bf4a3550465b6763639e19a95d
+Sketches,12,Fainter_Sketches_012.jpg,01_Sketches,IMG_7353.JPG,Sketches,JPEG,2189x2960,1775x2400,613.7,downscaled to 2400px,88,no,7f323a047b8bca1d8376dbc8b86225f6
+Sketches,13,Fainter_Sketches_013.jpg,01_Sketches,IMG_7355.JPG,Sketches,JPEG,2405x1734,2400x1730,374.2,downscaled to 2400px,88,no,6f77bd6b0b6564b659da6968286ce920
+Sketches,14,Fainter_Sketches_014.jpg,01_Sketches,IMG_7356.JPG,Sketches,JPEG,2391x1731,2391x1731,275.1,native (source under 2400px),88,no,32a5dfe0b8c4192e7f527deb5fa50122
+Large Oil Paintings,1,Fainter_Large_Oil_Paintings_001.jpg,02_Large_Oil_Paintings,img093 (2).jpg,Large Oil Paintings,JPEG,5848x4697,2400x1928,888.7,downscaled to 2400px,80,no,f48cabe0ee57ddc160267b80487de425
+Large Oil Paintings,2,Fainter_Large_Oil_Paintings_002.jpg,02_Large_Oil_Paintings,IMG_7056.JPG,Large Oil Paintings,JPEG,2048x2046,2048x2046,627.6,native (source under 2400px),88,no,dd201636f9f71fd08f204e55f0ec05a3
+Large Oil Paintings,3,Fainter_Large_Oil_Paintings_003.jpg,02_Large_Oil_Paintings,IMG_7057.JPG,Large Oil Paintings,JPEG,2046x2048,2046x2048,765.7,native (source under 2400px),88,no,4d408c8425f260f67af9042a47e7f6e4
+Large Oil Paintings,4,Fainter_Large_Oil_Paintings_004.jpg,02_Large_Oil_Paintings,IMG_7058.JPG,Large Oil Paintings,JPEG,2048x2036,2048x2036,858.1,native (source under 2400px),88,no,8b8cefada82d336a32d2283767ad2677
+Large Oil Paintings,5,Fainter_Large_Oil_Paintings_005.jpg,02_Large_Oil_Paintings,IMG_7085.JPG,Large Oil Paintings,JPEG,2048x2035,2048x2035,475.3,native (source under 2400px),88,no,c5307ffbd54d3523715d4d3de64d9613
+Large Oil Paintings,6,Fainter_Large_Oil_Paintings_006.jpg,02_Large_Oil_Paintings,IMG_7087.JPG,Large Oil Paintings,JPEG,2048x2023,2048x2023,514.4,native (source under 2400px),88,no,fb27ed0d848940867987b193ed4335c5
+Large Oil Paintings,7,Fainter_Large_Oil_Paintings_007.jpg,02_Large_Oil_Paintings,Painting2.jpg,Large Oil Paintings,JPEG,2048x2048,2048x2048,713.0,native (source under 2400px),88,no,20663e066a91ddc7649530cb132e947d
+Large Oil Paintings,8,Fainter_Large_Oil_Paintings_008.jpg,02_Large_Oil_Paintings,Painting3.jpg,Large Oil Paintings,JPEG,2048x2048,2048x2048,569.2,native (source under 2400px),88,no,48f22518ab75506598c901ee3a3c528d
+Warrior Series,1,Fainter_Warrior_Series_001.jpg,03_Warrior_Series,img168.jpg,Warrior,JPEG,4491x6427,1677x2400,587.8,downscaled to 2400px,85,yes,2cf028f00d643ac4603a87c7e83f2bd6
+Warrior Series,2,Fainter_Warrior_Series_002.jpg,03_Warrior_Series,img169.jpg,Warrior,JPEG,6274x4421,2400x1691,689.0,downscaled to 2400px,85,yes,f5e5551ebb5598fe9d2a1d5f3b2e0a88
+Warrior Series,3,Fainter_Warrior_Series_003.jpg,03_Warrior_Series,img186.jpg,Warrior,JPEG,6399x4526,2400x1698,757.5,downscaled to 2400px,85,yes,7447342a9dade3e45fd57fc738128924
+Warrior Series,4,Fainter_Warrior_Series_004.jpg,03_Warrior_Series,img187.jpg,Warrior,JPEG,6812x4127,2400x1454,753.7,downscaled to 2400px,88,yes,a9af9838f28f7317da715d81b2f49f4b
+Warrior Series,5,Fainter_Warrior_Series_005.jpg,03_Warrior_Series,img188.jpg,Warrior,JPEG,6041x4603,2400x1829,822.6,downscaled to 2400px,85,yes,a502bd6c2e2b3b44c93bde17cceef9c1
+Warrior Series,6,Fainter_Warrior_Series_006.jpg,03_Warrior_Series,IMG_7299.JPG,Warrior,JPEG,3046x2283,2400x1799,799.1,downscaled to 2400px,88,no,265c0be9bd7a80b4e712c75b12dd7574
+Warrior Series,7,Fainter_Warrior_Series_007.jpg,03_Warrior_Series,IMG_7367.JPG,Warrior,JPEG,2309x2920,1898x2400,861.1,downscaled to 2400px,88,no,5e01c45224ad7bb042af7def49197655
+Warrior Series,8,Fainter_Warrior_Series_008.jpg,03_Warrior_Series,IMG_7368.JPG,Warrior,JPEG,2863x2283,2400x1914,702.3,downscaled to 2400px,85,no,492d4c72d1b588a71e5528bf07caadad
+Warrior Series,9,Fainter_Warrior_Series_009.jpg,03_Warrior_Series,IMG_7369.JPG,Warrior,JPEG,2130x2658,1923x2400,684.5,downscaled to 2400px,85,no,490ecb6322273d047fd4902e26035725
+Warrior Series,10,Fainter_Warrior_Series_010.jpg,03_Warrior_Series,IMG_7370.JPG,Warrior,JPEG,2225x2814,1898x2400,820.3,downscaled to 2400px,88,no,b9e939e394e47f548153eb8f8fafdc0a
+Warrior Series,11,Fainter_Warrior_Series_011.jpg,03_Warrior_Series,IMG_7375.JPG,Warrior,JPEG,2982x1755,2400x1412,356.9,downscaled to 2400px,88,no,2d46328b4131a9b3ee3e8382efea86e4
+Warrior Series,12,Fainter_Warrior_Series_012.jpg,03_Warrior_Series,IMG_7376.JPG,Warrior,JPEG,3075x2157,2400x1684,468.7,downscaled to 2400px,88,no,021801be4ff4f522bc5ca3e7e33a8009
+Warrior Series,13,Fainter_Warrior_Series_013.jpg,03_Warrior_Series,IMG_7377.JPG,Warrior,JPEG,1773x2332,1773x2332,617.4,native (source under 2400px),88,no,bb50b5beb0f7c46ea2abec9d7b9aa100
+Warrior Series,14,Fainter_Warrior_Series_014.jpg,03_Warrior_Series,IMG_7378.JPG,Warrior,JPEG,1926x2767,1671x2400,640.4,downscaled to 2400px,88,no,d71b61ddd37a498973e95509905c3e37
+Jockey Series,1,Fainter_Jockey_Series_001.jpg,04_Jockey_Series,IMG_7294.JPG,Jockey,JPEG,2933x2198,2400x1799,761.1,downscaled to 2400px,88,no,ad7a9d26a5b3b65cc2623dfd31f08e40
+Jockey Series,2,Fainter_Jockey_Series_002.jpg,04_Jockey_Series,IMG_7295.JPG,Jockey,JPEG,2024x2697,1801x2400,872.1,downscaled to 2400px,88,no,b10dfd4b2a0f8238abf64d4d784ef57e
+Jockey Series,3,Fainter_Jockey_Series_003.jpg,04_Jockey_Series,IMG_7357.JPG,Jockey,JPEG,2340x3104,1809x2400,704.6,downscaled to 2400px,88,no,16bbf018f0452cc73dba13d6a245c785
+Jockey Series,4,Fainter_Jockey_Series_004.jpg,04_Jockey_Series,IMG_7371.JPG,Jockey,JPEG,2256x2981,1816x2400,872.9,downscaled to 2400px,88,no,3a9ccf0b5890581d4bb8ee82fa8c966f
+Jockey Series,5,Fainter_Jockey_Series_005.jpg,04_Jockey_Series,IMG_7372.JPG,Jockey,JPEG,2410x1901,2400x1893,773.6,downscaled to 2400px,85,no,d3142055a68580dbb40e6368285f1e98
+Jockey Series,6,Fainter_Jockey_Series_006.jpg,04_Jockey_Series,IMG_7373.JPG,Jockey,JPEG,2357x1852,2357x1852,501.8,native (source under 2400px),88,no,be80203b283f339e41beb25f348b3dda
+Faces,1,Fainter_Faces_001.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 05_57_55 AM.png",Faces,PNG,1086x1448,1086x1448,340.9,native (source under 2400px),88,no,601326e5d3d6e7c1c7ba41dce4afd817
+Faces,2,Fainter_Faces_002.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 05_58_10 AM.png",Faces,PNG,1086x1448,1086x1448,329.3,native (source under 2400px),88,no,fd9b8ec44604d2ec35be8f65e5cd17ad
+Faces,3,Fainter_Faces_003.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_00_12 AM (1).png",Faces,PNG,1448x1086,1448x1086,279.9,native (source under 2400px),88,no,280fcc1cd6d3a2a94f5fb4b15c31ceaa
+Faces,4,Fainter_Faces_004.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_00_12 AM (2).png",Faces,PNG,1086x1448,1086x1448,208.5,native (source under 2400px),88,no,f617a96485dba69a89dced39fccb7191
+Faces,5,Fainter_Faces_005.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_00_12 AM (3).png",Faces,PNG,1448x1086,1448x1086,206.7,native (source under 2400px),88,no,cf39f2084e7b5b369ab91a617f9e1053
+Faces,6,Fainter_Faces_006.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_02_29 AM (1).png",Faces,PNG,1448x1086,1448x1086,288.8,native (source under 2400px),88,no,576ef9e60a65e1ce0d3decf605553258
+Faces,7,Fainter_Faces_007.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_02_29 AM (2).png",Faces,PNG,1448x1086,1448x1086,362.2,native (source under 2400px),88,no,3b7af347f426c56cca8c6e2f7912a67b
+Faces,8,Fainter_Faces_008.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_02_29 AM (3).png",Faces,PNG,1086x1448,1086x1448,300.1,native (source under 2400px),88,no,4f2ca3bc27b301e423cdf7e5368db9fa
+Faces,9,Fainter_Faces_009.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_02_29 AM (4).png",Faces,PNG,1086x1448,1086x1448,314.3,native (source under 2400px),88,no,908fdc5a581207f46569c4fd1c9b86bb
+Faces,10,Fainter_Faces_010.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_02_30 AM (5).png",Faces,PNG,1086x1448,1086x1448,168.0,native (source under 2400px),88,no,255f60321c1b25004d84dcc78b7cc140
+Faces,11,Fainter_Faces_011.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_10_19 AM.png",Faces,PNG,1410x1115,1410x1115,331.7,native (source under 2400px),88,no,d91ec17a3d777a1e563bc0c30ed687a4
+Faces,12,Fainter_Faces_012.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_20_06 AM.png",Faces,PNG,1122x1402,1122x1402,311.9,native (source under 2400px),88,no,b7cd20cb599772dce83c521e961f49e4
+Faces,13,Fainter_Faces_013.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_20_15 AM.png",Faces,PNG,1122x1402,1122x1402,287.5,native (source under 2400px),88,no,b1af25f94f4268e1a536d342c4c8775e
+Faces,14,Fainter_Faces_014.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_20_24 AM.png",Faces,PNG,1122x1402,1122x1402,325.9,native (source under 2400px),88,no,91381162d73e9c0065eb913f32d1e06e
+Faces,15,Fainter_Faces_015.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_52_19 AM (1).png",Faces,PNG,1448x1086,1448x1086,309.5,native (source under 2400px),88,no,2c26115e337333fc36cde672c43e9528
+Faces,16,Fainter_Faces_016.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 06_52_19 AM (2).png",Faces,PNG,1448x1086,1448x1086,227.4,native (source under 2400px),88,no,1cf48742be88381c048ad10ebf330e22
+Faces,17,Fainter_Faces_017.jpg,05_Faces,"ChatGPT Image Sep 1, 2026 at 07_24_38 PM (3).png",Faces,PNG,1448x1086,1448x1086,383.9,native (source under 2400px),88,no,c7b7ed6a066f56e78bba58adea8ae116
+Faces,18,Fainter_Faces_018.jpg,05_Faces,img099.jpg,Faces,JPEG,5808x4771,2400x1971,871.3,downscaled to 2400px,88,no,f6629f51b5b5f75f5fcac2f5c5338875
+Faces,19,Fainter_Faces_019.jpg,05_Faces,img100.jpg,Faces,JPEG,4580x5973,1840x2400,763.2,downscaled to 2400px,88,no,490a4d39e23e8997a12439676159e091
+Faces,20,Fainter_Faces_020.jpg,05_Faces,img110.jpg,Faces,JPEG,5976x4746,2400x1906,735.9,downscaled to 2400px,88,no,6cc4c66cf2af6d96189c1ace6c5f3308
+Faces,21,Fainter_Faces_021.jpg,05_Faces,img113.jpg,Faces,JPEG,4696x5834,1932x2400,898.6,downscaled to 2400px,88,no,7b0b964162903f6649d185f472e952a0
+Faces,22,Fainter_Faces_022.jpg,05_Faces,img114.jpg,Faces,JPEG,5954x4664,2400x1880,707.4,downscaled to 2400px,88,no,dacda922cf87e6326d73131f0c3283a7
+Faces,23,Fainter_Faces_023.jpg,05_Faces,img115.jpg,Faces,JPEG,5968x4686,2400x1884,613.1,downscaled to 2400px,85,no,5a3eac81001f04f368e63efabc213281
+Faces,24,Fainter_Faces_024.jpg,05_Faces,img116.jpg,Faces,JPEG,5980x4760,2400x1910,725.0,downscaled to 2400px,88,no,818a87e63dbc072ddfc7205a4af43a95
+Faces,25,Fainter_Faces_025.jpg,05_Faces,img117.jpg,Faces,JPEG,4665x5927,1889x2400,643.7,downscaled to 2400px,85,no,aca7ebf107768c534319f9c5d0a58208
+Faces,26,Fainter_Faces_026.jpg,05_Faces,img118.jpg,Faces,JPEG,5979x4714,2400x1892,857.4,downscaled to 2400px,88,no,095e4ed552dd32ec257e1173e4ed5e47
+Faces,27,Fainter_Faces_027.jpg,05_Faces,img119.jpg,Faces,JPEG,5940x4702,2400x1900,804.0,downscaled to 2400px,88,no,f2a9b01995a36d1e5b2c510be8d6ece1
+Faces,28,Fainter_Faces_028.jpg,05_Faces,img120.jpg,Faces,JPEG,5904x4663,2400x1896,668.6,downscaled to 2400px,88,no,d015b5f70541b06716140d6965ac03fe
+Faces,29,Fainter_Faces_029.jpg,05_Faces,img121.jpg,Faces,JPEG,4672x5947,1885x2400,614.4,downscaled to 2400px,85,no,eb9e8624ba3d166f8d5a170bd105ccdc
+Floating Figures,1,Fainter_Floating_Figures_001.jpg,06_Floating_Figures,img048 (2).jpg,Floating Figures,JPEG,4649x6042,1847x2400,832.3,downscaled to 2400px,85,no,bbe5f98b9d79225c3d465cdcebf40df7
+Floating Figures,2,Fainter_Floating_Figures_002.jpg,06_Floating_Figures,img049 (2).jpg,Floating Figures,JPEG,4468x5604,1913x2400,627.5,downscaled to 2400px,85,no,9acff8993f77efb84f430ada0dd95b26
+Floating Figures,3,Fainter_Floating_Figures_003.jpg,06_Floating_Figures,img050 (2).jpg,Floating Figures,JPEG,4420x5567,1906x2400,831.3,downscaled to 2400px,82,no,540bf801a331997d0fb74d3e919abfd3
+Floating Figures,4,Fainter_Floating_Figures_004.jpg,06_Floating_Figures,img051 (2).jpg,Floating Figures,JPEG,4454x5701,1875x2400,712.8,downscaled to 2400px,85,no,3c427122de96f31c517c1a583cfd4b72
+Floating Figures,5,Fainter_Floating_Figures_005.jpg,06_Floating_Figures,img052 (2).jpg,Floating Figures,JPEG,4564x5842,1875x2400,647.0,downscaled to 2400px,88,no,eda5b91bcc46598b11a5a8a2c1355689
+Floating Figures,6,Fainter_Floating_Figures_006.jpg,06_Floating_Figures,img053 (2).jpg,Floating Figures,JPEG,5619x4450,2400x1901,626.5,downscaled to 2400px,85,no,d6398c9093d18c9b8ae483d98087dbcb
+Floating Figures,7,Fainter_Floating_Figures_007.jpg,06_Floating_Figures,img054 (2).jpg,Floating Figures,JPEG,4312x5425,1908x2400,759.8,downscaled to 2400px,88,no,fc8be2083dc1d8b8083f2609f02826d6
+Floating Figures,8,Fainter_Floating_Figures_008.jpg,06_Floating_Figures,img055 (2).jpg,Floating Figures,JPEG,5714x4528,2400x1902,883.0,downscaled to 2400px,88,no,f3ea821641c8d836a4b0fc8804d2c6b3
+Floating Figures,9,Fainter_Floating_Figures_009.jpg,06_Floating_Figures,img056 (2).jpg,Floating Figures,JPEG,4603x5868,1883x2400,694.0,downscaled to 2400px,85,no,cf0abfb01e35edf5cb151c43e3340ef0
+Floating Figures,10,Fainter_Floating_Figures_010.jpg,06_Floating_Figures,img064 (2).jpg,Floating Figures,JPEG,4787x7199,1596x2400,747.7,downscaled to 2400px,88,no,491e42de5d953a2113fe0aa75a8903f4
+Floating Figures,11,Fainter_Floating_Figures_011.jpg,06_Floating_Figures,img094.jpg,Floating Figures,JPEG,4685x4489,2400x2300,657.6,downscaled to 2400px,85,yes,b1c182afa6aa4a8d5a53b03051b4533d
+Floating Figures,12,Fainter_Floating_Figures_012.jpg,06_Floating_Figures,img130.jpg,Floating Figures,JPEG,4537x5126,2124x2400,528.1,downscaled to 2400px,88,yes,3563d4b6810f896e8c103e5707d16a46
+Floating Figures,13,Fainter_Floating_Figures_013.jpg,06_Floating_Figures,img137.jpg,Floating Figures,JPEG,4563x5706,1919x2400,415.9,downscaled to 2400px,88,yes,8105fd7bf1a28fda9500e3bb7bb9ac67
+Floating Figures,14,Fainter_Floating_Figures_014.jpg,06_Floating_Figures,img138.jpg,Floating Figures,JPEG,5773x4560,2400x1896,297.6,downscaled to 2400px,88,yes,b06c319040b9140c0863c5e07b206721
+Floating Figures,15,Fainter_Floating_Figures_015.jpg,06_Floating_Figures,img139 (2).jpg,Floating Figures,JPEG,4668x5220,2146x2400,270.1,downscaled to 2400px,88,yes,388c27f081fcb064cafd06d0d24c2c01
+Floating Figures,16,Fainter_Floating_Figures_016.jpg,06_Floating_Figures,img140.jpg,Floating Figures,JPEG,5786x4541,2400x1884,356.1,downscaled to 2400px,88,yes,954349e35bb7cbc8647d9056c8b1d457
+Floating Figures,17,Fainter_Floating_Figures_017.jpg,06_Floating_Figures,img141 (2).jpg,Floating Figures,JPEG,4599x5873,1879x2400,337.7,downscaled to 2400px,88,yes,82ddae4fc44c71817749f9ec8807700c
+Floating Figures,18,Fainter_Floating_Figures_018.jpg,06_Floating_Figures,img142.jpg,Floating Figures,JPEG,5817x4564,2400x1883,454.7,downscaled to 2400px,88,yes,7dff876cf5b439358c4ac679bf3938fe
+Floating Figures,19,Fainter_Floating_Figures_019.jpg,06_Floating_Figures,img144.jpg,Floating Figures,JPEG,5804x4561,2400x1886,558.7,downscaled to 2400px,88,yes,dc327ff84b0ec209a745c06911e57a67
+Floating Figures,20,Fainter_Floating_Figures_020.jpg,06_Floating_Figures,img145.jpg,Floating Figures,JPEG,4393x5532,1906x2400,317.5,downscaled to 2400px,88,yes,08dcc1e0dc69473f4bec42e01940dbc9
+Floating Figures,21,Fainter_Floating_Figures_021.jpg,06_Floating_Figures,img147.jpg,Floating Figures,JPEG,4520x5807,1868x2400,741.6,downscaled to 2400px,88,yes,6bf8ebb9041cb7b2f38af874dc365172
+Floating Figures,22,Fainter_Floating_Figures_022.jpg,06_Floating_Figures,img149.jpg,Floating Figures,JPEG,5568x4451,2400x1919,336.5,downscaled to 2400px,88,yes,cc6e4ddca855093dc298c6c7e897094b
+Floating Figures,23,Fainter_Floating_Figures_023.jpg,06_Floating_Figures,img150.jpg,Floating Figures,JPEG,4599x5828,1894x2400,290.4,downscaled to 2400px,88,yes,3bf078f362bd515d077d026d53bebee5
+Floating Figures,24,Fainter_Floating_Figures_024.jpg,06_Floating_Figures,img157.jpg,Floating Figures,JPEG,4475x5585,1923x2400,428.8,downscaled to 2400px,88,yes,dbdff5840ee1d724e0a258235c0a1352
+Floating Figures,25,Fainter_Floating_Figures_025.jpg,06_Floating_Figures,img158.jpg,Floating Figures,JPEG,4480x5638,1907x2400,436.3,downscaled to 2400px,88,yes,cc3b693f333dbe017c7372245a8e94c4
+Floating Figures,26,Fainter_Floating_Figures_026.jpg,06_Floating_Figures,img160.jpg,Floating Figures,JPEG,4563x5675,1930x2400,284.6,downscaled to 2400px,88,yes,5a9afce536f3fd40bb8f5d073ec0b4bd
+Floating Figures,27,Fainter_Floating_Figures_027.jpg,06_Floating_Figures,img161.jpg,Floating Figures,JPEG,4513x5708,1898x2400,408.2,downscaled to 2400px,88,yes,b551162e2a4ea0a37680314b4ea0d251
+Floating Figures,28,Fainter_Floating_Figures_028.jpg,06_Floating_Figures,img162.jpg,Floating Figures,JPEG,4502x5821,1856x2400,430.8,downscaled to 2400px,88,yes,79819762024487ca94b8061f98ca1a7f
+Floating Figures,29,Fainter_Floating_Figures_029.jpg,06_Floating_Figures,IMG_7060.jpg,Floating Figures,JPEG,1442x2048,1442x2048,265.7,native (source under 2400px),88,yes,50f932528483cc217633f353fe390b49
+Floating Figures,30,Fainter_Floating_Figures_030.jpg,06_Floating_Figures,IMG_7116.jpg,Floating Figures,JPEG,2048x1623,2048x1623,205.9,native (source under 2400px),88,yes,92ab64495150edbfe81b906a0df3eff2
+Floating Figures,31,Fainter_Floating_Figures_031.jpg,06_Floating_Figures,IMG_7117.jpg,Floating Figures,JPEG,1633x2048,1633x2048,392.2,native (source under 2400px),88,yes,b1919607fac429a6c9f1c5b1d4bda7b1
+Floating Figures,32,Fainter_Floating_Figures_032.jpg,06_Floating_Figures,IMG_7119.jpg,Floating Figures,JPEG,2048x1663,2048x1663,302.6,native (source under 2400px),88,yes,561767c88b1b49fddbfc4699437cdbb3
+Floating Figures,33,Fainter_Floating_Figures_033.jpg,06_Floating_Figures,IMG_7120.jpg,Floating Figures,JPEG,2048x1656,2048x1656,335.9,native (source under 2400px),88,yes,df4093fae02bd2192bd8033fe6f5f6bc
+Floating Figures,34,Fainter_Floating_Figures_034.jpg,06_Floating_Figures,IMG_7311.JPG,Floating Figures,JPEG,2641x2076,2400x1887,475.0,downscaled to 2400px,88,no,b77bedeb19dadcc06edbca0d21adef2f
+Floating Figures,35,Fainter_Floating_Figures_035.jpg,06_Floating_Figures,IMG_7312.JPG,Floating Figures,JPEG,2203x2811,1881x2400,645.7,downscaled to 2400px,88,no,50f0c0cbb79038c813f0d9e0e649839b
+Floating Figures,36,Fainter_Floating_Figures_036.jpg,06_Floating_Figures,IMG_7313.JPG,Floating Figures,JPEG,2196x2716,1941x2400,609.1,downscaled to 2400px,88,no,47db91f4c706c778119a02635416d4a7
+Floating Figures,37,Fainter_Floating_Figures_037.jpg,06_Floating_Figures,IMG_7314.JPG,Floating Figures,JPEG,2713x2140,2400x1893,677.6,downscaled to 2400px,88,no,be3fff5f6e41696835246d3fbb59ab26
+Floating Figures,38,Fainter_Floating_Figures_038.jpg,06_Floating_Figures,IMG_7315.JPG,Floating Figures,JPEG,2213x2774,1915x2400,713.2,downscaled to 2400px,88,no,58c9713550f2d959fa060810c0b6bec6
+Floating Figures,39,Fainter_Floating_Figures_039.jpg,06_Floating_Figures,IMG_7316.JPG,Floating Figures,JPEG,2263x2804,1937x2400,704.0,downscaled to 2400px,88,no,eb6f68a95fc7b000af3208568c479577
+Floating Figures,40,Fainter_Floating_Figures_040.jpg,06_Floating_Figures,IMG_7381.JPG,Floating Figures,JPEG,2146x2146,2146x2146,832.5,native (source under 2400px),88,no,b5c9f4e7df4b6e686aec189b76ecc17c
+Miscellaneous,1,Fainter_Miscellaneous_001.jpg,07_Miscellaneous,img151 (2).jpg,MIscellaneous,JPEG,5183x4082,2400x1890,800.5,downscaled to 2400px,85,no,1e773b82d0980b44b8e2553ea8d73f7e
+Miscellaneous,2,Fainter_Miscellaneous_002.jpg,07_Miscellaneous,img152 (2).jpg,MIscellaneous,JPEG,5672x4023,2400x1702,731.2,downscaled to 2400px,85,no,bc8d722d3c70050d3bc87105a6db7470
+Miscellaneous,3,Fainter_Miscellaneous_003.jpg,07_Miscellaneous,img167.jpg,MIscellaneous,JPEG,5249x4465,2400x2042,855.4,downscaled to 2400px,88,yes,12d1c0c67a67f540c5746854f0d60475
+Miscellaneous,4,Fainter_Miscellaneous_004.jpg,07_Miscellaneous,img170.jpg,MIscellaneous,JPEG,5484x4076,2400x1784,635.6,downscaled to 2400px,85,yes,29e3674ede3f47b62868b05f52798244
+Miscellaneous,5,Fainter_Miscellaneous_005.jpg,07_Miscellaneous,img171.jpg,MIscellaneous,JPEG,5635x3942,2400x1679,854.5,downscaled to 2400px,88,yes,258167a70e13a5a50a82924aedd222ba
+Miscellaneous,6,Fainter_Miscellaneous_006.jpg,07_Miscellaneous,IMG_7076.JPG,MIscellaneous,JPEG,1534x2048,1534x2048,436.3,native (source under 2400px),88,no,4bcea1160fc4d7ddb73a025ac765c6af
+Miscellaneous,7,Fainter_Miscellaneous_007.jpg,07_Miscellaneous,IMG_7304.JPG,MIscellaneous,JPEG,2129x2836,1802x2400,565.1,downscaled to 2400px,88,no,9383fa9cb6cce15639eba7c9a6cbd10d
+Miscellaneous,8,Fainter_Miscellaneous_008.jpg,07_Miscellaneous,IMG_7331.JPG,MIscellaneous,JPEG,1952x2733,1714x2400,480.9,downscaled to 2400px,88,no,8e079fa7926dc820f23bd235d0e33e92
+Miscellaneous,9,Fainter_Miscellaneous_009.jpg,07_Miscellaneous,IMG_7360.JPG,MIscellaneous,JPEG,2345x1671,2345x1671,610.4,native (source under 2400px),88,no,21ff3f1fa81b3808e4323ca9f67148f8
+Miscellaneous,10,Fainter_Miscellaneous_010.jpg,07_Miscellaneous,IMG_7374.JPG,MIscellaneous,JPEG,2197x2426,2173x2400,838.9,downscaled to 2400px,82,no,28868e7947bf968cdaba53c57bd42389
+Impressionist,1,Fainter_Impressionist_001.jpg,08_Impressionist,img191.jpg,Impressionist,JPEG,5479x4519,2400x1979,720.9,downscaled to 2400px,85,yes,35f2343127318b7012f60731c3ffd49b
+Impressionist,2,Fainter_Impressionist_002.jpg,08_Impressionist,img193.jpg,Impressionist,JPEG,5487x4082,2400x1785,895.9,downscaled to 2400px,85,yes,20da70c4ddf808a1b1190f7f33d07215
+Impressionist,3,Fainter_Impressionist_003.jpg,08_Impressionist,img194.jpg,Impressionist,JPEG,4565x6490,1688x2400,770.2,downscaled to 2400px,85,yes,a93875eeb2b804ed972aab2d08e0a798
+Impressionist,4,Fainter_Impressionist_004.jpg,08_Impressionist,img195.jpg,Impressionist,JPEG,5564x4128,2400x1781,709.9,downscaled to 2400px,85,yes,b806512e8715eb61636f4b74b5288cf3
+Impressionist,5,Fainter_Impressionist_005.jpg,08_Impressionist,img196.jpg,Impressionist,JPEG,6102x4473,2400x1759,682.0,downscaled to 2400px,85,yes,272f327be2551c653c53082bf3e5f199
+Impressionist,6,Fainter_Impressionist_006.jpg,08_Impressionist,img197.jpg,Impressionist,JPEG,5746x4273,2400x1785,689.3,downscaled to 2400px,85,yes,2183b1aa8e68020b58e9c94e9d4a4fb2
+Impressionist,7,Fainter_Impressionist_007.jpg,08_Impressionist,img198.jpg,Impressionist,JPEG,4432x5565,1911x2400,736.8,downscaled to 2400px,85,yes,6a4aed2461d6f19ac8f6d3ee200c55c4
+Impressionist,8,Fainter_Impressionist_008.jpg,08_Impressionist,img199.jpg,Impressionist,JPEG,4298x5298,1947x2400,713.0,downscaled to 2400px,85,yes,23a1962106eea18afea170516f837145
+Impressionist,9,Fainter_Impressionist_009.jpg,08_Impressionist,img200.jpg,Impressionist,JPEG,4116x5661,1745x2400,631.2,downscaled to 2400px,85,yes,7e07f1b9439354b30406a4be8bdbc998
+Impressionist,10,Fainter_Impressionist_010.jpg,08_Impressionist,img201.jpg,Impressionist,JPEG,4005x6205,1549x2400,615.2,downscaled to 2400px,85,yes,d6901767cb3ffc53fd84227c8d9cb64e
+Impressionist,11,Fainter_Impressionist_011.jpg,08_Impressionist,img202.jpg,Impressionist,JPEG,6104x4060,2400x1596,648.8,downscaled to 2400px,85,yes,7c7e1ea4757bd88fa0451564b655f9c9
+Impressionist,12,Fainter_Impressionist_012.jpg,08_Impressionist,img203.jpg,Impressionist,JPEG,4933x4325,2400x2104,731.9,downscaled to 2400px,85,yes,853ec4c6a6ef2dc7429cce0315ece520
+Impressionist,13,Fainter_Impressionist_013.jpg,08_Impressionist,img204.jpg,Impressionist,JPEG,4193x5385,1869x2400,616.2,downscaled to 2400px,85,yes,5ac1b94bc875181515118c0dd61fe68c
+Impressionist,14,Fainter_Impressionist_014.jpg,08_Impressionist,img205.jpg,Impressionist,JPEG,4141x5484,1812x2400,792.6,downscaled to 2400px,88,yes,72ae2c83037d46943df6452d3bb8fe19
+Impressionist,15,Fainter_Impressionist_015.jpg,08_Impressionist,img206.jpg,Impressionist,JPEG,5417x4237,2400x1877,749.0,downscaled to 2400px,85,yes,dbcc5652334244b51ff2e68bd6f76eee
+Impressionist,16,Fainter_Impressionist_016.jpg,08_Impressionist,img207.jpg,Impressionist,JPEG,4832x3796,2400x1885,627.0,downscaled to 2400px,85,yes,31fcc9ade4967ec2783d0acff41b0e72
+Impressionist,17,Fainter_Impressionist_017.jpg,08_Impressionist,img208.jpg,Impressionist,JPEG,3608x3462,2400x2303,876.2,downscaled to 2400px,85,yes,e83b8eeb2a6032a20e6d94882cfdb3e4
+Mystical Figures,1,Fainter_Mystical_Figures_001.jpg,09_Mystical_Figures,img125.jpg,Mystical Figures,JPEG,5938x4250,2400x1718,509.8,downscaled to 2400px,88,yes,2b69750f9577f71e7a778617b7fc8121
+Mystical Figures,2,Fainter_Mystical_Figures_002.jpg,09_Mystical_Figures,img126.jpg,Mystical Figures,JPEG,5661x4135,2400x1753,598.5,downscaled to 2400px,88,yes,fb659425ab99bd296595572208cec43e
+Mystical Figures,3,Fainter_Mystical_Figures_003.jpg,09_Mystical_Figures,img129.jpg,Mystical Figures,JPEG,5726x4466,2400x1872,215.6,downscaled to 2400px,88,yes,7e634ce1fd7ffa2789211ad45b471610
+Mystical Figures,4,Fainter_Mystical_Figures_004.jpg,09_Mystical_Figures,img133.jpg,Mystical Figures,JPEG,6845x3769,2400x1321,631.0,downscaled to 2400px,88,yes,04454068664f06ba1893548c0256b568
+Mystical Figures,5,Fainter_Mystical_Figures_005.jpg,09_Mystical_Figures,img135.jpg,Mystical Figures,JPEG,5655x4509,2400x1914,623.5,downscaled to 2400px,88,yes,3af7fa245f8df59d10624eb71c5396c4
+Mystical Figures,6,Fainter_Mystical_Figures_006.jpg,09_Mystical_Figures,img172 (2).jpg,Mystical Figures,JPEG,5089x4418,2400x2084,1020.2,downscaled to 2400px,78,no,7d1a1374ee305318e2a205da937bdd7c
+Mystical Figures,7,Fainter_Mystical_Figures_007.jpg,09_Mystical_Figures,img174.jpg,Mystical Figures,JPEG,4713x3726,2400x1897,551.4,downscaled to 2400px,88,yes,0f9dff9eaf655cf40177745657323f11
+Mystical Figures,8,Fainter_Mystical_Figures_008.jpg,09_Mystical_Figures,img175 (2).jpg,Mystical Figures,JPEG,4578x4565,2400x2393,895.9,downscaled to 2400px,85,no,b04018875ed6f1fa74663ffc5a20a368
+Mystical Figures,9,Fainter_Mystical_Figures_009.jpg,09_Mystical_Figures,img177.jpg,Mystical Figures,JPEG,4373x5497,1909x2400,499.5,downscaled to 2400px,88,yes,c93d1d4487d9accd407352341d27dcce
+Mystical Figures,10,Fainter_Mystical_Figures_010.jpg,09_Mystical_Figures,img179.jpg,Mystical Figures,JPEG,4528x5677,1914x2400,808.7,downscaled to 2400px,88,yes,961dd20e205b8184f0c12ef458dbac70
+Mystical Figures,11,Fainter_Mystical_Figures_011.jpg,09_Mystical_Figures,img180.jpg,Mystical Figures,JPEG,4212x5281,1914x2400,615.1,downscaled to 2400px,88,yes,78808035453fc61ee90694fd27dbb210
+Mystical Figures,12,Fainter_Mystical_Figures_012.jpg,09_Mystical_Figures,img181.jpg,Mystical Figures,JPEG,5596x4481,2400x1922,436.0,downscaled to 2400px,88,yes,590f8c588d64badb86524daf2c45883c
+Mystical Figures,13,Fainter_Mystical_Figures_013.jpg,09_Mystical_Figures,img182.jpg,Mystical Figures,JPEG,5860x4464,2400x1828,646.5,downscaled to 2400px,88,yes,9accffef048d92438e0b0f0f0713ff7e
+Mystical Figures,14,Fainter_Mystical_Figures_014.jpg,09_Mystical_Figures,img183.jpg,Mystical Figures,JPEG,5849x4577,2400x1878,452.3,downscaled to 2400px,88,yes,4a45806db2be570019e3a88a98b061ff
+Mystical Figures,15,Fainter_Mystical_Figures_015.jpg,09_Mystical_Figures,img184.jpg,Mystical Figures,JPEG,5847x4604,2400x1890,544.3,downscaled to 2400px,88,yes,9c8463dc28cd191f14fbc5ed9c520d7d
+Mystical Figures,16,Fainter_Mystical_Figures_016.jpg,09_Mystical_Figures,img185.jpg,Mystical Figures,JPEG,4443x5672,1880x2400,587.6,downscaled to 2400px,88,yes,260705577be7a22f6b77c3b1a6de6c42
+Mystical Figures,17,Fainter_Mystical_Figures_017.jpg,09_Mystical_Figures,img189.jpg,Mystical Figures,JPEG,4654x5878,1900x2400,510.4,downscaled to 2400px,88,yes,ad8819af920c2cc00b571f5714981e13
